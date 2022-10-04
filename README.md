@@ -15,24 +15,24 @@
 ## Object Method
 ### Entries
  The Object.entries() method returns an array of a given object's own enumerable string-keyed property [key, value] pairs.
-![Object method entries]()
+![Object method entries](./Img/object%20methods%200ll.png)
 ## Keys
 The Object.keys() method returns an array of a given object's own enumerable property names, iterated in the same order that a normal loop would.
-![Object method keys]()
+![Object method keys](./Img/object%20methods%200ll.png)
 ## Values
 The Object.values() method returns an array of a given 
 object's own enumerable property values
-![Object method keys]()
+![Object method keys](./Img/object%20methods%200ll.png)
 
 # -_____Destructuring and spread_____ –
 ## Destructuring
 #### The destructuring assignment syntax is a JavaScript expression that makes it possible to unpack properties from object, into distinct variables.
-![Destructuring]()
+![Destructuring](./Img/Dustring.png)
 
 ## Spread
 #### The spread operator ... is used to  expand or spread an to make it works with own enumerable properties of an object. 
 ### For example
-![Spread]() 
+![Spread](./Img/Sprid.png) 
 #### You can use the spread operator to clone the own enumerable properties of an object.
 #### for example:
 
@@ -56,5 +56,4 @@ PRECUDENE | OBJECT
   ++++ 3 ++++ | Object Method
   ++++ 4 ++++ | Global scope
   
- 
-  
+  # THANK  YOU  FOR WATCHING THIS
